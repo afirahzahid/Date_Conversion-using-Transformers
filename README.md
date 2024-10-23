@@ -14,3 +14,19 @@ The model is based on the T5 Transformer architecture:
 - The model is fine-tuned to convert the input date string into the target format.
 - Sequence-to-sequence learning is employed using Seq2SeqTrainer.
 
+### Skills
+### Programming Languages:
+  - Python
+  - Markdown
+  
+### Libraries/Frameworks:
+  - Hugging Face Transformers
+  - PyTorch
+  - Pandas
+  - NumPy
+  
+### Machine Learning:
+  - Sequence-to-Sequence Learning
+  - Transformers (T5 Model)
+  - Natural Language Processing
+
