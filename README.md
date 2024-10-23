@@ -22,7 +22,6 @@ The model is based on the T5 Transformer architecture:
   - Hugging Face Transformers
   - PyTorch
   - Pandas
-  - NumPy
   
 #### Machine Learning:
   - Sequence-to-Sequence Learning
