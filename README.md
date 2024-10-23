@@ -15,17 +15,16 @@ The model is based on the T5 Transformer architecture:
 - Sequence-to-sequence learning is employed using Seq2SeqTrainer.
 
 ### Skills
-### Programming Languages:
+#### Programming Languages:
   - Python
-  - Markdown
   
-### Libraries/Frameworks:
+#### Libraries/Frameworks:
   - Hugging Face Transformers
   - PyTorch
   - Pandas
   - NumPy
   
-### Machine Learning:
+#### Machine Learning:
   - Sequence-to-Sequence Learning
   - Transformers (T5 Model)
   - Natural Language Processing
